@@ -1,6 +1,7 @@
 # InputValidatorTooltipAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
+- See more details in [Post on Blog](https://devinvestidor.com.br/en/input-validator-angular17/).
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
 
 ## Development server
 
